@@ -1,0 +1,11 @@
+{
+  "name": "pet-mern-bank-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "cors": "^2.8.5"
+  }
+}
