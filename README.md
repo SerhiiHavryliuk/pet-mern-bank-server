@@ -25,6 +25,6 @@ PORT=5000
 Start server:
 ```
 npm install
-npm start
+npm server
 ```
 
