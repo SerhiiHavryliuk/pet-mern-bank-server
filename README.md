@@ -7,7 +7,13 @@ Mern Stack code for the [Mern Tutorial](https://www.mongodb.com/languages/mern-s
 
 [YouTube video - MERN Stack Beginners Tutorial](https://www.youtube.com/watch?v=ET2m37pABuQ&list=PLpPqplz6dKxUYV3x_dqyNuPW0JAut9w3L&ab_channel=PedroTech)
 
+## Deploy
 [Deploy project - Render.com](https://render.com/)
+
+#### Backend server url
+```
+https://bank-server-lbi6.onrender.com/
+```
 
 ## How To Run
 Create an Atlas URI connection parameter in `mern/server/config.env` with your Atlas URI:
