@@ -22,9 +22,12 @@ ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/myFirstD
 PORT=5000
 ```
 
-Start server:
+Start local server:
 ```
 npm install
-npm server
+node server
 ```
+
+## Важливо
+Зміни вступають у силу тільки після перевантаження серверу
 
